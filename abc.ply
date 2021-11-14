@@ -1,0 +1,17 @@
+ply
+format ascii 1.0
+element vertex 5
+property float32 x
+property float32 y
+property float32 z
+element face 3
+property list uint8 int32 vertex_indices
+end_header
+4.14607 -1.39563 2.18563
+3.76402 -1.69947 2.30437
+3.92762 -1.37844 2.18556
+3.53446 -1.50341 2.30429
+3.82598 -1.29163 2.18552
+3 0 1 2
+3 0 2 3
+3 0 3 4
